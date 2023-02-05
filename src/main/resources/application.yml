@@ -1,0 +1,9 @@
+
+investigator:
+  input:
+    file:
+      path: src/main/resources/data/input.txt
+  output:
+    file:
+      path: src/main/resources/data/output.txt
+
